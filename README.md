@@ -2,7 +2,7 @@
 =====================
 
 This is the second kata I learnt at [Makers Academy] (http://www.makersacademy.com/‎).
-It converts arabic numerals into roman numerals.
+It converts Arabic numerals into Roman numerals.
 
 Technologies used
 ------------------
@@ -15,7 +15,7 @@ Subject covered
 * Hashes
 * Blocks
 * Loops
-* Shavel operator
+* Shovel operator
 * Classes
 
 Credits
