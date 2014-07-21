@@ -18,8 +18,8 @@ class Arabic_number
   
   def to_roman(arabic_number)
     roman_numeral = ""
-    CONVERSION_TABLE.each do |key, value|
-      (arabic_number / value).times { roman_numeral << key; arabic_number -= value}
+    CONVERSION_TABLE.each do |letter, value|
+      (arabic_number / value).times { roman_numeral << letter; arabic_number -= value}
     end
     roman_numeral
   end
