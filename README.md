@@ -9,7 +9,7 @@ Technologies used
 * Ruby
 * Rspec
 
-Subject covered
+Subjects covered
 -----------------
 * Constant
 * Hashes
@@ -17,6 +17,7 @@ Subject covered
 * Loops
 * Shovel operator
 * Classes
+* TDD
 
 Credits
 --------
